@@ -1,3 +1,6 @@
 pudge
 tinker
 io
+slark
+spectre
+invoker
